@@ -1,1 +1,1 @@
-Sitemap: https://sam-trg.github.io/quarto-blog/sitemap.xml
+Sitemap: https://sam-trg.github.io/blog/sitemap.xml
