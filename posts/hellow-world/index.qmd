@@ -5,6 +5,6 @@ date: "2024-11-08"
 categories: [meta]
 ---
 
-Check out the legacy version of this blog [here](https://www.sam.com.in/)!
+Check out the legacy version of this blog [here](https://sam.com.in/)!
 
 ![](thumbnail.jpg)
