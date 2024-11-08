@@ -1,0 +1,19 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: instagram
+      text: Instagram
+      href: https://instagram.com/vegansamburger
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/sam-asija
+    - icon: github
+      text: Github
+      href: https://github.com/sam-trg
+
+---
+
+About this blog
