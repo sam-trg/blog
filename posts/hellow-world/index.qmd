@@ -1,0 +1,10 @@
+---
+title: "Hellow, world"
+author: "Sam"
+date: "2024-11-08"
+categories: [meta]
+---
+
+Check out the legacy version of this blog [here](https://www.sam.com.in/)!
+
+![](thumbnail.jpg)

@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "Sam’s Notebook",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nNov 8, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nNov 5, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Hellow, world\n\n\n\n\n\n\nmeta\n\n\n\n\n\n\n\n\n\nNov 8, 2024\n\n\nSam\n\n\n\n\n\n\n\n\n\n\n\n\nThe Death of Internet Voices\n\n\n\n\n\n\nai\n\n\nchatgpt\n\n\nlanguage\n\n\n\n\n\n\n\n\n\nNov 8, 2024\n\n\nSam\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "title": "The Death of Internet Voices",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "Earlier, voices on the internet were unique. Apart from those who write for a living and know how to write, most people aren’t extremely articulate, and so different corners of the internet used to have different voices. I could hear them— the overly optimistic corporate-sounding American ones and others which almost sounded like them but not quite. The style deviating more the farther you move from North America, I theorize.\nI used to love reading these different voices. I especially loved those trying to mimic the soulless corpo tone while still carying their locale’s tinge. It was precisely the uncanny valley-ness of them that made it a kind of mental exercise for me to determine what specific change in word choice or order would take the given text from suboptimal to perfectly natural.\nWith the advent of AI text generation, the Internet’s voices have, sadly, faded away. No longer do I encounter the ever so slightly off word choices typical of Indian English, nor do I hear the distinctively South Asian timbre anymore. It has all now been gentrified—a shallow copy of a shallow copy.\n\n“… a sea of AI-generated fluff, loudly proclaiming nothing”\n\nAll this hit me when I opened Coursera to do an assignment this morning. Where you’d usually find instructor-specific guidelines, there’s now a sea of AI-generated fluff, loudly proclaiming nothing. After being exposed to mountains of AI garbage recently, I’ve developed an intuition for detecting AI-generated text. Phrases like “boost your xyz to success” or “kickstart your journey” are the Hollywood tranquilizer dart to my attention- one prick and I’m out. The Lack of Original Thought, Human Effort, and/or Creativity causes my brain to feel negatively stimulated and my interest vanishes just as quickly. Rant over."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "about",
     "section": "",
-    "text": "About this blog"
+    "text": "Hey, I’m Sam and I love to think. Writing gives me greater clarity about my own thoughts, and so, I write. This Notebook is a digital manifestation of my thoughts.\nNow that you’re here, welcome, fair traveller of the Interwebs! Have fun."
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -26,5 +26,12 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/hellow-world/index.html",
+    "href": "posts/hellow-world/index.html",
+    "title": "Hellow, world",
+    "section": "",
+    "text": "Check out the legacy version of this blog hereold blog!"
   }
 ]
