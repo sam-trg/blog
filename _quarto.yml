@@ -13,7 +13,7 @@ website:
 format:
   html:
     theme: 
-      light: cosmo
+      light: lux
       dark: cyborg
     css: styles.css
 
