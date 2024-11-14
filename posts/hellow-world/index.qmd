@@ -5,6 +5,6 @@ date: "2024-11-08"
 categories: [meta]
 ---
 
-On this week's iteration of 'I did a thing!', I'm trying to make a landing page for all things me. You can find a barebones version of it [here](https://www.sam.com.in/)!
+On this week's iteration of 'I did a thing!', I'm trying to make a landing page for all things me. You can find a barebones version of it [here](https://sam.com.in/)!
 
 ![](thumbnail.jpg)
