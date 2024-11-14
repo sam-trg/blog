@@ -12,7 +12,9 @@ website:
         href: https://instagram.com/vegansamburger
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: cosmo
+      dark: cyborg
     css: styles.css
 
 
